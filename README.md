@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Rahmaatieno/Rahmaatieno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Canva 
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...omondirahma095@gmail.com
 - 😄 Pronouns: ...her/she
 - ⚡ Fun fact: ... I love cooking and using canva during free time
--->
+
